@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/logo.svg" alt="paperclip logo" width="180" />
+</p>
+
+<p align="center">
   <img src="doc/assets/header.png" alt="Paperclip — runs your business" width="720" />
 </p>
 
